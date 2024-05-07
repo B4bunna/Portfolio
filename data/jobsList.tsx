@@ -55,7 +55,7 @@ export const jobsList: Jop[] = [
     },
     {
         id: 4,
-        title: "Flutter developer",
+        title: "meeeeeeeeeeeeeeeeeeeeeha",
         details: "Doctorbase: Healthcare mobile app that lets patient have Virtual visits with, developed using Flutter " +
         "(Dart) and Firebase. " +
         "\n• Refined the app's user interface, ensuring it met the highest standards of design precision and " +
