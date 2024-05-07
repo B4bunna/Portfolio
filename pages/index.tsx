@@ -12,7 +12,7 @@ const Home: NextPage = () => {
                 <div className="mx-10 md:mx-16 lg:mx-40 my-10 flex flex-col md:flex-row">
                     <img alt="Profile" src="/images/profile.png" className="w-48 h-48" />
                     <div className="pl-0 md:pl-10 leading-loose lg:leading-normal">
-                        <p className="pt-10 text-4xl lg:text-5xl text-white font-semibold uppercase">Ahmed majeed</p>
+                        <p className="pt-10 text-4xl lg:text-5xl text-white font-semibold uppercase">Ahmed a. majeed</p>
                         <p className="pt-5 text-2xl lg:text-3xl text-white font-medium">Electrical Engineer</p>
                     </div>
                 </div>
