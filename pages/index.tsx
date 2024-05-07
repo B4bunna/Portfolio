@@ -21,7 +21,7 @@ const Home: NextPage = () => {
                     <p className="mt-10 mx-4 lg:mx-20 lg:leading-10 text-white text-center text-xl">Hi! I&apos;m Ahmed,
                          a passionate Electrical Designer with 4 years of experience in Scheme/Schematic Design,
                          and Pipes and Instrumentation Diagram (P&ID) Design, using AutoDesk AutoCAD/Electrical. Additionally,
-                         with a strong background in industrial automation systems. I spent 2 years developing bacis PLC applications using TiaPortal.</p>
+                         with a strong background in industrial automation systems, I spent 2 years developing bacis PLC applications using TiaPortal.</p>
                     <a href="/files/AlzobairElkhalifaCv.pdf" className="btn btn-wide btn-outline mt-10" target="_blank" download="">Download my cv</a>
                 </div>
                 <div className="grid place-items-center mx-4 md:mx-16 lg:mx-40 my-20 py-12 card bg-violet-700/[.35]">
