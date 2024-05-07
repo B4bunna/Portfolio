@@ -18,11 +18,10 @@ const Home: NextPage = () => {
                 </div>
                 <div className="grid place-items-center mt-20 md:mx-16 py-12 mx-4 lg:mx-40 card bg-violet-700/[.35]">
                     <p className="text-white uppercase text-3xl lg:text-4xl font-bold">About</p>
-                    <p className="mt-10 mx-4 lg:mx-20 lg:leading-10 text-white text-center text-xl">Hello! I&apos;m Alzobair (or laitooo),
-                        a passionate Software Developer with 4 years of experience in mobile development,
-                        encompassing 1 year of expertise in native Android and 3 years using Flutter. Additionally,
-                        1 year of proficiency in full-stack development, with a strong background in game
-                        development using Unity and expertise in artificial intelligence.</p>
+                    <p className="mt-10 mx-4 lg:mx-20 lg:leading-10 text-white text-center text-xl">Hi! I&apos;m Ahmed,
+                         a passionate Electrical Designer with 4 years of experience in Scheme/Schematic Design,
+                         and Pipes and Instrumentation Diagram (P&ID) Design, using AutoDesk AutoCAD/Electrical. Additionally,
+                         with a strong background in industrial automation systems. I spent 2 years developing bacis PLC applications using TiaPortal.</p>
                     <a href="/files/AlzobairElkhalifaCv.pdf" className="btn btn-wide btn-outline mt-10" target="_blank" download="">Download my cv</a>
                 </div>
                 <div className="grid place-items-center mx-4 md:mx-16 lg:mx-40 my-20 py-12 card bg-violet-700/[.35]">
